@@ -7,3 +7,6 @@ Terraform for complete Rancher 2 HA deployment with external load balancer on AW
 - Route 53 DNS Entry
 - VPC & Subnets
 - Auto-config of Rancher2/Kubernetes Cluster using rke
+
+## Prerequisites:
+- Terraform CLI (https://www.terraform.io/intro/getting-started/install.html)

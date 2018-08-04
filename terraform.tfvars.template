@@ -1,0 +1,43 @@
+################################
+#### General Options
+################################
+
+# Choose a name to tag resources and ssh key with. Can be anything.
+rancher_name = ""
+
+################################
+#### Configure Deployment Region
+################################
+
+# Select region using "us-east-1" format
+aws_region = ""
+
+# Choose 3 availability zones using "us-east-1a" format
+zone_01 = ""
+
+zone_02 = ""
+
+zone_03 = ""
+
+################################
+#### EC2 Instance Options
+################################
+
+# EC2 instance size
+ec2_instance_type = ""
+
+# EBS volume size in GB
+ebs_volume_size = ""
+
+################################
+#### Network options
+################################
+
+# Route53 zone ID (found in Route53)
+route53_zone_id = ""
+
+# Choose fully qualified domain name to be used for Rancher access
+rancher_url = ""
+
+# Full ARN for SSL cert (configured in Certificate Manager)
+ssl_cert_arn = ""

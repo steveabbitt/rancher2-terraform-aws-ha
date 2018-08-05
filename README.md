@@ -1,3 +1,5 @@
+### this readme is a work in progress!
+
 # rancher2-terraform-aws-ha
 Terraform for complete Rancher 2 HA deployment with external load balancer on AWS
 

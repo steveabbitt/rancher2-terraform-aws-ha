@@ -1,4 +1,4 @@
-### this readme is a work in progress!
+### With the release of Rancher v2.12 these scripts are deprecated until further reworking 
 
 # rancher2-terraform-aws-ha
 Terraform for complete Rancher 2 HA deployment with external load balancer on AWS
